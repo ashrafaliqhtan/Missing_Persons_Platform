@@ -240,7 +240,7 @@ Installation
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/Missing_Persons_Platform.git
+git clone https://github.com/ashrafaliqhtan/Missing_Persons_Platform.git
 cd Missing_Persons_Platform
 ```
 
@@ -478,24 +478,35 @@ firebase deploy --only hosting
 
 ---
 
-📸 Screenshots
+
+
+## 📸 Screenshots
 
 <div align="center">
 
-  
-<img src="images/screenshot_1.jpg" width="200"> <img src="images/screenshot_2.jpg" width="200"> <img src="images/screenshot_3.jpg" width="200">
-<img src="images/screenshot_4.jpg" width="200"> <img src="images/screenshot_5.jpg" width="200"> <img src="images/screenshot_6.jpg" width="200">
-<img src="images/screenshot_7.jpg" width="200"> <img src="images/screenshot_8.jpg" width="200"> <img src="images/screenshot_9.jpg" width="200">
-<img src="images/screenshot_10.jpg" width="200"> <img src="images/screenshot_11.jpg" width="200"> <img src="images/screenshot_12.jpg" width="200">
-<img src="images/screenshot_13.jpg" width="200"> <img src="images/screenshot_14.jpg" width="200"> <img src="images/screenshot_15.jpg" width="200">
-<img src="images/screenshot_16.jpg" width="200"> <img src="images/screenshot_17.jpg" width="200"> <img src="images/screenshot_18.jpg" width="200">
-<img src="images/screenshot_19.jpg" width="200"> <img src="images/screenshot_20.jpg" width="200"> <img src="images/screenshot_21.jpg" width="200">
-<img src="images/screenshot_22.jpg" width="200"> <img src="images/screenshot_23.jpg" width="200"> <img src="images/screenshot_24.jpg" width="200">
-<img src="images/screenshot_25.jpg" width="200"> <img src="images/screenshot_26.jpg" width="200"> <img src="images/screenshot_27.jpg" width="200">
-<img src="images/screenshot_28.jpg" width="200"> <img src="images/screenshot_29.jpg" width="200"> <img src="images/screenshot_30.jpg" width="200">
-<img src="images/screenshot_31.jpg" width="200">  
+| | |
+|:---:|:---:|
+| <img src="images/screenshot_1.jpg" width="250"> | <img src="images/screenshot_2.jpg" width="250"> |
+| <img src="images/screenshot_3.jpg" width="250"> | <img src="images/screenshot_4.jpg" width="250"> |
+| <img src="images/screenshot_5.jpg" width="250"> | <img src="images/screenshot_6.jpg" width="250"> |
+| <img src="images/screenshot_7.jpg" width="250"> | <img src="images/screenshot_8.jpg" width="250"> |
+| <img src="images/screenshot_9.jpg" width="250"> | <img src="images/screenshot_10.jpg" width="250"> |
+| <img src="images/screenshot_11.jpg" width="250"> | <img src="images/screenshot_12.jpg" width="250"> |
+| <img src="images/screenshot_13.jpg" width="250"> | <img src="images/screenshot_14.jpg" width="250"> |
+| <img src="images/screenshot_15.jpg" width="250"> | <img src="images/screenshot_16.jpg" width="250"> |
+| <img src="images/screenshot_17.jpg" width="250"> | <img src="images/screenshot_18.jpg" width="250"> |
+| <img src="images/screenshot_19.jpg" width="250"> | <img src="images/screenshot_20.jpg" width="250"> |
+| <img src="images/screenshot_21.jpg" width="250"> | <img src="images/screenshot_22.jpg" width="250"> |
+| <img src="images/screenshot_23.jpg" width="250"> | <img src="images/screenshot_24.jpg" width="250"> |
+| <img src="images/screenshot_25.jpg" width="250"> | <img src="images/screenshot_26.jpg" width="250"> |
+| <img src="images/screenshot_27.jpg" width="250"> | <img src="images/screenshot_28.jpg" width="250"> |
+| <img src="images/screenshot_29.jpg" width="250"> | <img src="images/screenshot_30.jpg" width="250"> |
+| <img src="images/screenshot_31.jpg" width="250"> | |
 
 </div>
+
+
+
 
 ---
 # User Journey Visualized:
