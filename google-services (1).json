@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "497710478676",
+    "project_id": "digitalacademy-69c3d",
+    "storage_bucket": "digitalacademy-69c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497710478676:android:6c6b7e365c54c0333bc4c1",
+        "android_client_info": {
+          "package_name": "com.digitalacademy.digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497710478676-t95tlbgd93rkdssqp989lbp10mnv2j8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWofppqe0KuaG0qifsGCRgVSrCIMtV_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497710478676-t95tlbgd93rkdssqp989lbp10mnv2j8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497710478676-l2lm7ogr6oiqevh36h30kmkr4nkrs90r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digitalAcademy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497710478676:android:c6cabf6997b1e7503bc4c1",
+        "android_client_info": {
+          "package_name": "com.digitalacademy.digital_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497710478676-t95tlbgd93rkdssqp989lbp10mnv2j8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWofppqe0KuaG0qifsGCRgVSrCIMtV_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497710478676-t95tlbgd93rkdssqp989lbp10mnv2j8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497710478676-l2lm7ogr6oiqevh36h30kmkr4nkrs90r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digitalAcademy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
